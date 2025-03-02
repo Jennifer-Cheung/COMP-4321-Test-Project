@@ -1,0 +1,11 @@
+{
+  "[typescriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  }
+}
